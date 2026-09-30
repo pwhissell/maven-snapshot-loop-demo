@@ -1,0 +1,14 @@
+{
+  "release-type": "maven",
+  "separate-pull-requests": false,
+  "packages": {
+    "alpha": {
+      "component": "alpha",
+      "include-component-in-tag": true
+    },
+    "beta": {
+      "component": "beta",
+      "include-component-in-tag": true
+    }
+  }
+}
