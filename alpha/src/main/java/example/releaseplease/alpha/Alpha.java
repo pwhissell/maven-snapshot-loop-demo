@@ -4,6 +4,6 @@ public final class Alpha {
   private Alpha() {}
 
   public static String message() {
-    return "alpha";
+    return "alpha ready";
   }
 }
